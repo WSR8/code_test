@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.4.5",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^27.4.5",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "form-data": "^4.0.0"
+  }
+}
